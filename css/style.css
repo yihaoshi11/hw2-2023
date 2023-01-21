@@ -34,31 +34,31 @@ body div{
     margin-top: 15px;
     line-height: 2;
 }
-.red{
+div.red{
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
     border: 0px 0px 2px 5px;
 }
-.blue{
+div.blue{
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
     border: 2px 5px 0px 0px;
 }
-.blue h2,.blue p{
+div.blue h2,.blue p{
     color: #C4C4C4;
 }
-.yellow{
+div.yellow{
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
     border: 0px 0px 2px 5px;
 }
-.yellow p{
+div.yellow p{
     color: #707070;
 }
-.green{
+div.green{
     background-color: #00EB00;
     text-align: left;
     margin-right: 50px;
