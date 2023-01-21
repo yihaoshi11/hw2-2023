@@ -34,35 +34,39 @@ body div{
     margin-top: 15px;
     line-height: 2;
 }
-div.red{
+.red{
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border: 0px 0px 2px 5px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
-div.blue{
+.blue{
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border: 2px 5px 0px 0px;
+    border-right: 5px;
+    border-top: 2px;
 }
-div.blue h2,.blue p{
+.blue h2,.blue p{
     color: #C4C4C4;
 }
-div.yellow{
+.yellow{
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border: 0px 0px 2px 5px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
-div.yellow p{
+.yellow p{
     color: #707070;
 }
-div.green{
-    background-color: #00EB00;
+.green{
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border: 2px 5px 0px 0px;
+    border-right: 5px;
+    border-top: 2px;
 }
 footer{
     background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
